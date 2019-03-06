@@ -1,5 +1,5 @@
 # App-Sec-Glossary-Mar-2019
-Contains a ** wiki** for the __class glossary__
+Contains a **wiki** for the __class glossary__
 We will add entries as we go in the curriculum.
 
 * Each definition must be a paragraph long (about 40 - 80 words).
