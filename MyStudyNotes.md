@@ -3,4 +3,4 @@
 ##### This is mainly for practicing and familiarizing myself with git 
 Bash and git hub 
 
-> **Bingo**!!
+> **Bingo!!
