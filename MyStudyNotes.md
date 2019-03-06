@@ -15,7 +15,7 @@ https://www.techopedia.com/2/27825/security/the-basic-principles-of-it-security
 6. **Record, Record, Record**  
 7. **Run Frequent Tests**  
 
-> ##**The Takeaway**
+> ### **The Takeaway**
 >
 >IT security is a challenging job that requires attention to detail at 
 the same time as it demands a higher-level awareness. However, like many 
