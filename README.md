@@ -8,38 +8,38 @@ appropriate.
 * If using text that are not in your own words, make sure to cite your 
 source.
 
-#### Terms
+### Terms
 The lists below are examples of terms that could be defined in your 
 class glossary.
 
-#### General:
-attack vector
-compliance
-cyber-security
-data breach
-incident response
-likelihood
-risk
-security
-threat
-threat actor
-vulnerability
-weakness
+### General:
+* attack vector
+* compliance
+* cyber-security
+* data breach
+* incident response
+* likelihood
+* risk
+* security
+* threat
+* threat actor
+* vulnerability
+* weakness
 
-#### Security Aims and Principles:
+### Security Aims and Principles:
 
 integrity
 availability
 confidentiality
 
-#### Security Mechanisms:
+### Security Mechanisms:
 authentication
 authorisation
 validation
 error handling
 logging
 
-#### Security-related acronyms:
+### Security-related acronyms:
 CERT
 ISMS
 OWASP
