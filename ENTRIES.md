@@ -39,11 +39,11 @@ information can  not be made."
  **Authentication** is when a system is capable of confirming the 
 identity of a user, and making sure that the user attempting to use the 
 system is who they claim to be, and not an imposter.  
-> Accountability is "the security goal that generates the requirement for 
-actions of an entity to be traced uniquely to that entity. This supports 
-non-repudiation, deterrence, fault isolation, intrusion detection and 
-prevention, and after-action recovery and legal action."
+> "Authentication is the act of confirming that someone (or something) is 
+who they say they claim to be. The most common authentication that we do 
+in our applications is confirming that a user is in fact who they claim 
+to be, and not an imposter claiming to be someone they aren't."
 >
->(NIST, 2013)
+>(Buttner & Shields, 2014)
 
 
