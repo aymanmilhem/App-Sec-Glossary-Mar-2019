@@ -23,4 +23,11 @@ tasks that seem complex at first glance, IT security can be broken down
 in to basic steps that can simplify the process. That’s not to say it 
 makes things easy, but it does keep IT professionals on their toes. 
 
+> ## Important
+>In the **Written Assessment**, you will be asked to explain three 
+principles 
+of your choice (except Defense in Depth) and then analyse one of those in 
+more detail. 
+
+
 > **Bingo**!!
