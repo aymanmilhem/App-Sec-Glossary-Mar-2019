@@ -102,3 +102,43 @@ resolved appropriaely either_.
 ### Fix Secutiry issues correctly 
 ...
 
+### An Example is given:  
+**Defense in depth**
+*****************************************************
+
+# Security Standards and Regulations
+## Overview:  
+* The NZ Information Security Manual (NZISM)  
+* The NZ Privacy act  
+* The European General Data Protection Regulation 
+(GDPR)
+
+## 1. Defenitions
+**In this unit you'll learn** about **legal 
+requirements and standards** that concern 
+application security.
+
+### Compliance
+
+### Standard
+
+### Regulation
+
+## 2. Security Standards:  
+> "The main security standard that applies to 
+>application security in New Zealand is the 
+>NZISM"
+
+## Instructions for activity
+Identify at least 5 items that you think a web 
+app should/ must comply with.
+Express each of them in the form of an 
+instruction  (READ-DO) to a web app development 
+team.
+
+### Items Identified: 
+* Application whitelisting: Only approved 
+applications are used on agency controlled 
+systems.
+* System user permissions.
+* System administrator permissions.
