@@ -6,8 +6,7 @@ Bash and git hub
 from: 
 https://www.techopedia.com/2/27825/security/the-basic-principles-of-it-security
 
-## **IT Security Best Practices/ Also called Security 
-Principles**  
+## **IT Security Best Practices/ Security Principles**  
 1. **Balance Protection with Utility**  
 2. **Split Up the Users and Resources**  
 3. **Assign Minimum Privileges**  
