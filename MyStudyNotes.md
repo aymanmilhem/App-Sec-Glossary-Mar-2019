@@ -57,5 +57,34 @@ to exploit a system.
 #### Keep It Simple 
 **Keep it simple / Economy of Mechanisms** - Keep things 
 simple.  
-  
- 
+
+#### Minimize attack surface  
+* Use a positive security model/ minimize _Attack Surface_- 
+Reduce _entry points_ that can be exploited by malicious 
+users.  
+
+* Videos: 
+ * Map exposure points and data passageways.
+ * Security Through Obscurity.
+
+* A related principle:
+ * Use Positive security model/ Whitelisting.  
+  * Whitelisting: access is denied by default and only 
+whitelisted entities are allowed access.  
+
+## Access:
+These principles relate to access rights given to users of the 
+application: 
+* ### Least Privilege:  
+ * just having enough access level to do the job.
+* ### Separation of duties:  
+ * Different entities lave different roles.
+
+* ## Complete Mediation:  
+ * Access to all resources of a system are always validated.
+
+## Implementation  
+* These principles might be especially useful to guide you 
+during implementation:  
+ * Fail Securely: 
+  * Lim
