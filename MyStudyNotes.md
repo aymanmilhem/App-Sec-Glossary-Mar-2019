@@ -41,9 +41,9 @@ more detail.
 ********************************************************************
 ## Notes from 2019-03-07
 * Security by design:
- * Embed security at every level of the SDLC, from 
+  * Embed security at every level of the SDLC, from 
 requirements to testing to deployment.
- * "shift left" in sw dev parlance (as in _"shift security to 
+  * "shift left" in sw dev parlance (as in _"shift security to 
 the left of the timeline_", i.e. **towards the earlier steps 
 of the SDLC**.)
 
@@ -64,27 +64,27 @@ Reduce _entry points_ that can be exploited by malicious
 users.  
 
 * Videos: 
- * Map exposure points and data passageways.
- * Security Through Obscurity.
+  * Map exposure points and data passageways.
+  * Security Through Obscurity.
 
 * A related principle:
- * Use Positive security model/ Whitelisting.  
-  * Whitelisting: access is denied by default and only 
-whitelisted entities are allowed access.  
+  * Use Positive security model/ Whitelisting.  
+    * Whitelisting: access is denied by default and only whitelisted 
+entities are allowed access.  
 
 ## Access:
 These principles relate to access rights given to users of the 
 application: 
 * ### Least Privilege:  
- * just having enough access level to do the job.
+  * just having enough access level to do the job.
 * ### Separation of duties:  
- * Different entities lave different roles.
+  * Different entities lave different roles.
 
 * ## Complete Mediation:  
- * Access to all resources of a system are always validated.
+  * Access to all resources of a system are always validated.
 
 ## Implementation  
 * These principles might be especially useful to guide you 
 during implementation:  
  * Fail Securely: 
-  * Lim
+   * Lim
