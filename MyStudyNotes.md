@@ -67,7 +67,7 @@ users.
   * Map exposure points and data passageways.
   * Security Through Obscurity.
 
-* A related principle:
+* A related principle:  
   * Use Positive security model/ Whitelisting.  
     * Whitelisting: access is denied by default and only whitelisted 
 entities are allowed access.  
@@ -87,4 +87,18 @@ application:
 * These principles might be especially useful to guide you 
 during implementation:  
  * Fail Securely: 
-   * Lim
+   * Limit amount of information exposed on errors encountered by a 
+system.
+
+## Psychological Acceptability
+**Security implemetation should protect a system but not hamper users of 
+the system.**  
+
+## Operations
+This is about how to respond to incidents. Often enough, first the 
+incident is not identified immediately, second _the issue is not 
+resolved appropriaely either_.  
+
+### Fix Secutiry issues correctly 
+...
+
