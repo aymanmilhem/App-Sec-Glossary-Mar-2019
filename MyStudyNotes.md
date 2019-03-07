@@ -38,3 +38,24 @@ more detail.
 
 
 > **Bingo**!!
+********************************************************************
+## Notes from 2019-03-07
+* Security by design:
+ * Embed security at every level of the SDLC, from 
+requirements to testing to deployment.
+ * "shift left" in sw dev parlance (as in _"shift security to 
+the left of the timeline_", i.e. **towards the earlier steps 
+of the SDLC**.)
+
+## Common Security Principles: 
+> "... have been organised along the SDLC task they apply to 
+>the most."  
+### System Design and Architecture
+#### Defense in Depth  
+> Defense in Depth – Multiple layers of control make it harder 
+to exploit a system.  
+#### Keep It Simple 
+**Keep it simple / Economy of Mechanisms** - Keep things 
+simple.  
+  
+ 
