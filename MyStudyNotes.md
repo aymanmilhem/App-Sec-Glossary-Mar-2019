@@ -21,7 +21,14 @@ https://www.techopedia.com/2/27825/security/the-basic-principles-of-it-security
 the same time as it demands a higher-level awareness. However, like many 
 tasks that seem complex at first glance, IT security can be broken down 
 in to basic steps that can simplify the process. That’s not to say it 
-makes things easy, but it does keep IT professionals on their toes. 
+makes things easy, but it does keep IT professionals on their toes.
+
+Also, an image i keep seeing on the iQualify pages is: 
+
+![The Security 
+Pyramid](https://iqfy-storage.imgix.net/sFmmI3LTRCVrXMjHWoyN_security_pyramid___principles.jpg)
+
+ 
 
 > ## Important
 >In the **Written Assessment**, you will be asked to explain three 
