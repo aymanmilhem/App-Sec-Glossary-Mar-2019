@@ -175,4 +175,31 @@ __Secure authorization mechanisms include__:
 *And is: checking that the date received from a client corresponds to what the application expects in terms of __length, format, data type, etc.__ It includes both whitelisting and blacklisting. Secure validation is always done on the server, as the client may be compromised*.
 
 ### Session Management:  
+_is a method to keep track of the user's state in 
+a multi-step workflow, **including keeping data 
+collected at one stage for use at another 
+stage.**_  
+**Managing sessions securely includes:**
+* limiting the session's lifespan.
+* Generating new IDs each login.
+* Using existing robust session management 
+solutions _rather than building your own_.
+
+### Error Handling:  
+**is the practice of always expecting the 
+unexpected (expeting errors to happen), and 
+always processing the error securely, which 
+includes logging it and stopping the current 
+task**  
+
+### Logging:  
+**Keeps track of important events that happen 
+in the application** _such as login successes 
+and failures, use of admin functions, password 
+resets and changes, and some applicatin 
+errors_.
+
+### Encryption:  
+**Transforms data in order to make it difficult 
+for and outsider to interpret**.
 
