@@ -145,13 +145,16 @@ systems.
 
 # 2018-03-11-Home
 ## Application Security Mechanisms  
-![Application Security Pyramid - Mechanisms]([200~https://iqfy-storage.imgix.net/uZswdXDCS4OYc4yyCEdS_security_pyramid___mechanisms.jpg)  
+![Application Security Pyramid - 
+Mechanisms](https://iqfy-storage.imgix.net/uZswdXDCS4OYc4yyCEdS_security_pyramid___mechanisms.jpg)  
 
 ## Core Security Mechanisms  
 ![Security Mechanisms](https://iqfy-storage.imgix.net/41887vvQ9uYaLjkRQRAg_mechanisms_and_aims.png)
 
 ### Authentication:  
-*is the act of confirming that someone is who they claim to be. __Secure Authentication Mecanisms include__  
+_is the act of confirming that someone is who 
+they claim to be_. **Secure Authentication 
+Mecanisms include**:  
 * Enforcing Strong passwords.
 * Logging failed logins and pw changes.
 * locking users out after failed login.
