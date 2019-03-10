@@ -142,3 +142,34 @@ applications are used on agency controlled
 systems.
 * System user permissions.
 * System administrator permissions.
+
+# 2018-03-11-Home
+## Application Security Mechanisms  
+![Application Security Pyramid - Mechanisms]([200~https://iqfy-storage.imgix.net/uZswdXDCS4OYc4yyCEdS_security_pyramid___mechanisms.jpg)  
+
+## Core Security Mechanisms  
+![Security Mechanisms](https://iqfy-storage.imgix.net/41887vvQ9uYaLjkRQRAg_mechanisms_and_aims.png)
+
+### Authentication:  
+*is the act of confirming that someone is who they claim to be. __Secure Authentication Mecanisms include__  
+* Enforcing Strong passwords.
+* Logging failed logins and pw changes.
+* locking users out after failed login.
+* implementing two-factor authentication.
+* Taking care with forgotten pw function.
+* Using POST method.
+
+### Authorizatin:  
+*is the act of verifying that a __previously authenticated__ user is allowed to perform a given operation or act on a given resource*.
+**OFTEN KNOWN AS ACCESS CONTROL**
+__Secure authorization mechanisms include__:  
+* Checking authorization to access every function/ page.
+* Checking access to data/ context.
+* Always checking access on the server not the client.
+
+### Data Validation:  
+(*is considered my many to be the most important mechanism in secure coding*),  
+*And is: checking that the date received from a client corresponds to what the application expects in terms of __length, format, data type, etc.__ It includes both whitelisting and blacklisting. Secure validation is always done on the server, as the client may be compromised*.
+
+### Session Management:  
+
