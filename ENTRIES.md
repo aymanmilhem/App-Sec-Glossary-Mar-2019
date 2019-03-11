@@ -1,7 +1,15 @@
 # GLOSSARY ENTRIES
 
+|Entry            |By          |Date        |
+| --------------- |:---------- | ---------: |
+|Confidentiality  |Ayman Milhem| 08/03/2019 |
+|Integrity        | "     "    | 08/03/2019 |
+|Availability     | "     "    | 09/03/2019 |
+|Authentication   | "     "    | 10/03/2019 |
+
  **Confidentiality** is when a system is capable of distiguishing between 
-users and granting access to certain _assets_ only to autorized persons 
+users and granting access to certain _assets_ 
+only to autorized persons 
 who have the right credetials to access them.  
 
  > "Information is only available to those who should have access to it. 
